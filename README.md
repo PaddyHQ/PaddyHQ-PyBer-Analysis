@@ -28,6 +28,14 @@ For the months of Jan to May, weekly total for all 3 city types fall within a co
 We know that rural cities see consistently less fares, but our data when plotted by week shows that for some weeks rural cities have near $0 in fares. Rideshare fares for rural areas are below $500 a week for all rural cities measured.
 
 ## Summary:
+### Strengths
+
+Our data for urban and suburban cities looks strong and improvements in technology will further aid our business.
+
+* It should be noted that future expansion of cellular and broadband technology will have a significant positive impact on our business.
+  * Satellite provided cellular and broadband technology is on the horizon.
+* As we increase our market penetration and brand recognition into urban and suburban areas, rural areas are likely to follow suit.
+  
 ### Challenges
 There are many barriers to rideshare penetration into the rural markets.
 
@@ -36,14 +44,6 @@ There are many barriers to rideshare penetration into the rural markets.
 3. There aren't enough drivers in rural areas to ensure everyone who requests a ride can get one in a timely fashion.
 4. In areas where trips are long and parking is abundant, ridesharing is not considered preferable over car ownership.
 5. Mapping in rural areas is unreliable.
-
-### Positives
-
-Our data for urban and suburban cities looks strong and improvements in technology will further aid our business.
-
-* It should be noted that future expansion of cellular and broadband technology will have a significant positive impact on our business.
-  * Satellite provided cellular and broadband technology is on the horizon.
-* As we increase our market penetration and brand recognition into urban and suburban areas, rural areas are likely to follow suit.
 
 ### Recommendations for Increasing Effectiveness in Rural Areas
   
