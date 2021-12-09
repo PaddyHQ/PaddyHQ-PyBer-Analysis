@@ -7,11 +7,11 @@ Finding and addressing disparities in ride sharing data among city types
 
 *Fig. 1- Summary of rideshare data grouped by city type*
 
-More rides in urban cities by far. Many fewer in rural cities. 
-More drivers in urban and less in rural
-Fares are up.
-Fare per ride in rural is much higher- probably means rides are longer- trend is conserved
-Fare per driver in rural is much higher- ratio of rides to drivers is higher in rural
+* More rides in urban cities by far. Many fewer in rural cities. 
+* More drivers in urban and less in rural
+* Fares are up.
+* *are per ride in rural is much higher- probably means rides are longer- trend is conserved
+* Fare per driver in rural is much higher- ratio of rides to drivers is higher in rural. Means there is less drivers to go around
 
 ![Fig 2](./Analysis/fig9.png)
 *Fig. 2- Total fare grouped by city type for January 2019 to May 2019*
