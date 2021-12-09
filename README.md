@@ -16,9 +16,10 @@ Finding and addressing disparities in ride sharing data among city types
 ![Fig 2](./Analysis/fig9.png)
 *Fig. 2- Total fare grouped by city type for January 2019 to May 2019*
 
-For the months of Jan to May, weekly total for all 3 city types fall within a range of +/- $1000 with no real trend up or down between months. Rideshare sales seem consistent.
+For the months of Jan to May, weekly total for all 3 city types fall within a range of +/- $600 with no real trend up or down between months. Rideshare sales seem consistent.
 
 * Rural consistently less
+* Rural has near $0 in fares some weeks
   * Urban consistently most. 
 * No crossover. 
     * Trend in data is reliable.
