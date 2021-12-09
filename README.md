@@ -9,8 +9,8 @@ Finding and addressing disparities in ride sharing data among city types
 
 * More rides in urban cities by far. Many fewer in rural cities. 
 * More drivers in urban and less in rural
-* Fares are up.
-* *are per ride in rural is much higher- probably means rides are longer- trend is conserved
+* More money is being made in fares for Urban
+* Fare per ride in rural is much higher- probably means rides are longer- trend is conserved
 * Fare per driver in rural is much higher- ratio of rides to drivers is higher in rural. Means there is less drivers to go around
 
 ![Fig 2](./Analysis/fig9.png)
@@ -18,9 +18,10 @@ Finding and addressing disparities in ride sharing data among city types
 
 For the months of Jan to May, weekly total for all 3 city types fall within a range of +/- $1000 with no real trend up or down between months. Rideshare sales seem consistent.
 
-Rural consistently less, Urban consistently most. No crossover. Trend in data is reliable.
-
-
+* Rural consistently less
+  * Urban consistently most. 
+* No crossover. 
+    * Trend in data is reliable.
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
