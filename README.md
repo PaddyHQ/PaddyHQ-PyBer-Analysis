@@ -3,7 +3,8 @@ Module 5- Berkley
 ## Overview of the analysis:
 Finding and addressing disparities in ride sharing data among city types
 # Results: 
-![Fig 1](./Analysis/Fig10.png)
+![Fig 1](Analysis\fig10.png)
+
 *Fig. 1- Summary of rideshare data grouped by city type*
 
 More rides in urban cities by far. Many fewer in rural cities. 
@@ -22,8 +23,15 @@ Rural consistently less, Urban consistently most. No crossover. Trend in data is
 
 
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
-
-
+technological infrastructure is a problem
+expansion of cellular and broadband technology
+use of credit cards is a deterrent to those who only use cash
+ridesharing is most prevalent when rides are short and parking is difficult
+moving to a call center model for rural areas and encouraging drivers to form relationships with clients (caters to a rural audience)
+possibly change compensation model for rural areas to include a flat rate (if it's not possible to make a livelihood, you won't have drivers)
+improve maps for rural areas
+strategically penetrate markets with research. find communities that may be more open and have the means.
+patience. market penetration takes time.
 
 Would like to see a full year and compare multiple years. Would like to have data on length of trip and tip amounts.
 
