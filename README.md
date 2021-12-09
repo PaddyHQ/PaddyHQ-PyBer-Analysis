@@ -1,27 +1,30 @@
 # PaddyHQ-PyBer-Analysis
 Module 5- Berkley
-## Overview of the analysis: Explain the purpose of the new analysis.
-# Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
+## Overview of the analysis:
+Finding and addressing disparities in ride sharing data among city types
+# Results: 
+![Fig 1](./Analysis/Fig10.png)
+*Fig. 1- Summary of rideshare data grouped by city type*
+
+More rides in urban cities by far. Many fewer in rural cities. 
+More drivers in urban and less in rural
+Fares are up.
+Fare per ride in rural is much higher- probably means rides are longer- trend is conserved
+Fare per driver in rural is much higher- ratio of rides to drivers is higher in rural
+
+![Fig 2](./Analysis/fig9.png)
+*Fig. 2- Total fare grouped by city type for January 2019 to May 2019*
+
+For the months of Jan to May, weekly total for all 3 city types fall within a range of +/- $1000 with no real trend up or down between months. Rideshare sales seem consistent.
+
+Rural consistently less, Urban consistently most. No crossover. Trend in data is reliable.
+
+
+
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
 
 
 
-
-Structure, Organization, and Formatting (6 points)
-The written analysis has the following structure, organization, and formatting:
-
-There is a title, and there are multiple sections. (2 pt)
-Each section has a heading and subheading. (2 pt)
-Links to images are working and displayed correctly. (2 pt)
-Analysis (14 points)
-The written analysis has the following:
-
-Overview of the analysis:
-
-The purpose of the new analysis is well defined. (3 pt)
-Results:
-
-There is a description of the differences in ride-sharing data among the different city types. Ride-sharing data include the total rides, total drivers, total fares, average fare per ride and driver, and total fare by city type. (7 pt)
-Summary:
+Would like to see a full year and compare multiple years. Would like to have data on length of trip and tip amounts.
 
 There is a statement summarizing three business recommendations to the CEO for addressing any disparities among the city types. (4 pt)
